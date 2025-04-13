@@ -86,3 +86,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137981
+  packageName: Simple 2D Template
+  packageVersion: 1.2
+  assetPath: Assets/IndieMarc/PlatformerDemo/Sprites/Background/grass2.png
+  uploadId: 322227
