@@ -130,7 +130,7 @@ namespace IndieMarc.Platformer
             UpdateCrouch();
 
             //Move
-            rigid.velocity = move;
+            rigid.linearVelocity = move;
         }
 
         //Handle render and controls
@@ -344,7 +344,7 @@ namespace IndieMarc.Platformer
             if (!is_dead)
             {
                 is_dead = true;
-                rigid.velocity = Vector2.zero;
+                rigid.linearVelocity = Vector2.zero;
                 move = Vector2.zero;
                 move_input = Vector2.zero;
 
