@@ -3501,3 +3501,175 @@ Memory consumption went from 149.2 MB to 137.3 MB.
 Total: 15.324900 ms (FindLiveObjects: 0.716600 ms CreateObjectMapping: 0.710300 ms MarkObjects: 4.508500 ms  DeleteObjects: 9.388100 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 64.673616 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Prefabs/Grass.prefab
+  artifactKey: Guid(271c5b2bc5e704099a0d360ecaf9e121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Prefabs/Grass.prefab using Guid(271c5b2bc5e704099a0d360ecaf9e121) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e7bdad60dafb7d91010c244c81b149f') in 0.2021583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Prefabs/TreeBackground.prefab
+  artifactKey: Guid(91529c2350cce4a0eae08093c4300e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Prefabs/TreeBackground.prefab using Guid(91529c2350cce4a0eae08093c4300e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '519ca975f51425e4deec684d121ae7fa') in 0.6910625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Prefabs/Lever.prefab
+  artifactKey: Guid(533120e8664760047bfd6d88d4c03533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Prefabs/Lever.prefab using Guid(533120e8664760047bfd6d88d4c03533) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d9c082e23a52d9a8c763d5fc28c26d5') in 0.0142259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.531023 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Sprites/CircleBlur.png
+  artifactKey: Guid(74f7f12e816b4af47b2c22f055f5629a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Sprites/CircleBlur.png using Guid(74f7f12e816b4af47b2c22f055f5629a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8785cdd875aecab307890252edf0c15') in 0.0324788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.465495 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Tilemap.mat
+  artifactKey: Guid(288222b991fd00440a5577a610510cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Tilemap.mat using Guid(288222b991fd00440a5577a610510cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ce1f263b81d32a2601a28eb01771256') in 0.0501832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.397958 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-corner-right.png
+  artifactKey: Guid(ff6dfd1a5554f4d42ab546e35f13fb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-corner-right.png using Guid(ff6dfd1a5554f4d42ab546e35f13fb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1bb3032587ef087753106f5b73b9a1de') in 0.0832335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-right-down.png
+  artifactKey: Guid(b009aaf79b40ccf4ca9f2e51182e5591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-right-down.png using Guid(b009aaf79b40ccf4ca9f2e51182e5591) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a5ede92d6881439e853cd72533ddbbe') in 0.0151852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-flat-bottom.png
+  artifactKey: Guid(8bfabaf3971ff8b4fabfc18ee10951c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-flat-bottom.png using Guid(8bfabaf3971ff8b4fabfc18ee10951c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ef9e6ecddbcc1869f2559053209fb4e') in 0.0139878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-corner-right-down.png
+  artifactKey: Guid(46e29cead0a2e3840b2c634932cf71d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-corner-right-down.png using Guid(46e29cead0a2e3840b2c634932cf71d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '947342734fcddb5a936e68fe2e608d7f') in 0.069608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-flat-right.png
+  artifactKey: Guid(cf53cae2cd7d699408e23e9f26a0512c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-flat-right.png using Guid(cf53cae2cd7d699408e23e9f26a0512c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b9ede90a0ac50259c91829b61b930df') in 0.0151716 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_8.asset
+  artifactKey: Guid(15f1a2dd6e73cb44b87ce9fa4e0f8ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_8.asset using Guid(15f1a2dd6e73cb44b87ce9fa4e0f8ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '914045ef0794714824dbbd776043b549') in 0.028838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_6.asset
+  artifactKey: Guid(4c3a4c38924408144ae04a47190c5db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_6.asset using Guid(4c3a4c38924408144ae04a47190c5db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0a64e2868d7877e34ebef7e8453395e') in 0.0111991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-left-down.png
+  artifactKey: Guid(68bd6f460eb1a1c4b891919cfcf5686b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-left-down.png using Guid(68bd6f460eb1a1c4b891919cfcf5686b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e99ffe6542aa31334b8c8b8471c545a1') in 0.0149984 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_7.asset
+  artifactKey: Guid(b23e11badbd1c834da49f69458eb169c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_7.asset using Guid(b23e11badbd1c834da49f69458eb169c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb917ae3978652a0aeab238ee2f438cb') in 0.0130415 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_14.asset
+  artifactKey: Guid(f76f60250da364240b7a27c02694449e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_14.asset using Guid(f76f60250da364240b7a27c02694449e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59159c5e2dbb2adaa022070f799b0275') in 0.013535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_2.asset
+  artifactKey: Guid(03ce0cd312718b7489e027fe32ae4160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_2.asset using Guid(03ce0cd312718b7489e027fe32ae4160) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6bbfdb0d1cd5a36b7361e5fbb18f1ddb') in 0.0138916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_12.asset
+  artifactKey: Guid(c84e5a06601ad0948b413e67f21b4b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_12.asset using Guid(c84e5a06601ad0948b413e67f21b4b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88672ff7b264e8667df978e026150c39') in 0.044209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-corner-right-down.asset
+  artifactKey: Guid(9f6238b263e800f41b3ab3601c0312f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-corner-right-down.asset using Guid(9f6238b263e800f41b3ab3601c0312f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '341488dc48c07e43ebdb302dc9c54e16') in 0.0114081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-right.png
+  artifactKey: Guid(bc5ab3a00dbef2648a95c20d90cae609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-right.png using Guid(bc5ab3a00dbef2648a95c20d90cae609) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51cc3055f65c3d3c866d0c911e7d64ac') in 0.0180029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-left.png
+  artifactKey: Guid(e541601047018134ebfde1ba25d41313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tile-slide-left.png using Guid(e541601047018134ebfde1ba25d41313) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d32b8fe5583a415863a912f0bfcb9ab') in 0.0146292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_1.asset
+  artifactKey: Guid(5fe1d3b9c2ba44c408340f4db04454d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IndieMarc/PlatformerDemo/Tilemap/Black/tilemap_1.asset using Guid(5fe1d3b9c2ba44c408340f4db04454d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80372185fc85da2a92d7f6630f81831d') in 0.0139522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

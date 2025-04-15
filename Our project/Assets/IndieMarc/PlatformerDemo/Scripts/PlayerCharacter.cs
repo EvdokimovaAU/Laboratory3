@@ -145,6 +145,7 @@ namespace IndieMarc.Platformer
             //Controls
             PlayerControls controls = PlayerControls.Get(player_id);
             move_input = !disable_controls ? controls.GetMove() : Vector2.zero;
+            
             jump_press = !disable_controls ? controls.GetJumpDown() : false;
             jump_hold = !disable_controls ? controls.GetJumpHold() : false;
 
